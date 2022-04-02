@@ -1,0 +1,26 @@
+.texto{
+    color:red;
+    text-align: center;
+    margin-top: 20%;
+    font-size: xx-large;
+}
+p{
+    color: blue;
+    text-align: center;
+    margin-top: 20%;
+    font-size: xx-large;
+}
+
+.rojo{
+    color: red;
+}
+
+.text{
+    font-size: larger;
+    border-radius: 2rem;
+    margin-top: 5%;
+
+}
+.bg{
+    background-color: lightpink;
+}
